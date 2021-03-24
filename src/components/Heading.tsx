@@ -71,7 +71,7 @@ const Heading = () => {
         <div className={classes.name}>
           <div className={classes.title}>
             <Text h2 className={classes.username}>
-              Ofek Ashery
+              Dino Dino
             </Text>
             <Button className={classes.createProjectButton} type="secondary" auto>
               Create Project
